@@ -25,6 +25,7 @@ export default {
   constants: {
     CONTENT_TYPE: {
       "./html": "text/html",
+      ".html": "text/html",
       "./css": "text/css",
       "./js": "text/javascript",
     },
